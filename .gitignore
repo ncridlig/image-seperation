@@ -1,5 +1,9 @@
 venv/
 ckpt/
+ACNN/
+ACNN1/
+ACNN2/
+ACNN3/
 FMP3/0.66-0.72-epoch20-loss1.57.keras
 FMP3/0.65-0.74-epoch33-loss1.54.keras
 FMP3/0.65-0.74-epoch28-loss1.55.keras
